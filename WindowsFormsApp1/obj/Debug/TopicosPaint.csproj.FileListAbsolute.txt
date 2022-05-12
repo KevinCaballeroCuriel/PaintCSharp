@@ -1,0 +1,11 @@
+C:\Users\KevinCaballero\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\KevinCaballero\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\KevinCaballero\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\KevinCaballero\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TopicosPaint.csprojAssemblyReference.cache
+C:\Users\KevinCaballero\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AcercaDe.resources
+C:\Users\KevinCaballero\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\KevinCaballero\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TopicosPaint.csproj.GenerateResource.cache
+C:\Users\KevinCaballero\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TopicosPaint.csproj.CoreCompileInputs.cache
+C:\Users\KevinCaballero\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\KevinCaballero\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\KevinCaballero\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Principal.resources
